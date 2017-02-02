@@ -1,23 +1,26 @@
-#Name, price, location, rate
-Gypsies, 9, 1.5, 4.5
-Vietnamese, 8, 1.5, 4
-Japanese, 8, 1.5, 4
-Dyar, 9, 1.5, 3.5
-Vals, 8, 1.5, 4
-Hummingbird, 8, 1.5, 4.5
-Bongo Burger, 10, 1.5, 5
-Pizzah, 10, 1.5, 5
-Taco Bell, 10, 1.5, 5
-Gordo's, 10, 1.5, 5
-Koja Kitchen, 10, 1.5, 5
-Celia's, 10, 1.5, 5
-Thai Noodle 2, 10, 1.5, 5
-Urbann Turbann, 10, 1.5, 5
-Ibs, 10, 1.5, 5
-Cheng-Du, 10, 1.5, 5
-Snack Shack, 10, 1.5, 5
-Taco Cineloa, 10, 1.5, 5
-Korean Kitchen (South Asian Ghetto), 10, 1.5, 5
+#Name, price, location, rating
+Gypsies, 8.5, 3, 4.5
+Vietnamese, 7.5, 3, 4
+Japanese, 10, 3, 4
+Dyar, 9.5, 3, 3.5
+Vals, 7, 3, 4
+Hummingbird, 6, 3, 4.5
+Bongo Burger, 6.5, 3, 5
+Pizzah, 7, 3, 5
+Taco Bell, 4, 3, 5
+Gordo's, 7, 4, 5
+Koja Kitchen, 9, 1.5, 5
+Celia's, 11, 3, 5
+Thai Noodle 2, 12, 1.5, 5
+Urbann Turbann, 9.5, 1.5, 5
+Ibs, 9, 3, 5
+Cheng-Du, 7.5, 3, 5
+Snack Shack, 9.5, 3, 5
+Taco Cineloa, 8, 3.5, 5
+Korean Kitchen (South Asian Ghetto), 10, 3, 5
+Montague's, 9, 4, 5
+Brazil Cafe, 9, 7, 5
+
 
 
 
